@@ -1,0 +1,2 @@
+# Tbomb.sh
+Kwntl
